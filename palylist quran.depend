@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1733677289 source:e:\data structure\palylist quran\main.cpp
+	<iostream>
+	<string>
+	"surah.h"
+	"DLL.h"
+	"Playlist.h"
+	"All_Playlists.h"
+	<windows.h>
+	<mmsystem.h>
+	<conio.h>
+	<fstream>
+
+1733677118 source:e:\data structure\palylist quran\src\playlist.cpp
+	"Playlist.h"
+	"surah.h"
+	"windows.h"
+	<conio.h>
+
+1733335245 e:\data structure\palylist quran\include\playlist.h
+	<iostream>
+	<string>
+	<iomanip>
+	"surah.h"
+	"DLL.h"
+
+1733241208 e:\data structure\palylist quran\include\surah.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1733241208 e:\data structure\palylist quran\include\dll.h
+	<iostream>
+
+1733241208 source:e:\data structure\palylist quran\src\surah.cpp
+	"surah.h"
+
+1733237632 source:e:\data structure\palylist quran\src\all_playlist.cpp
+	"All_Playlist.h"
+	"surah.h"
+	"DLL.h"
+	"Playlist.h"
+
+1733237608 e:\data structure\palylist quran\include\all_playlist.h
+	<iostream>
+	<string>
+	"surah.h"
+	"DLL.h"
+	"Playlist.h"
+	<iomanip>
+
+1733241353 source:e:\data structure\palylist quran\src\dll.cpp
+
+1733677039 source:e:\data structure\palylist quran\src\all_playlists.cpp
+	"All_Playlists.h"
+	"surah.h"
+	"DLL.h"
+	"Playlist.h"
+
+1733677039 e:\data structure\palylist quran\include\all_playlists.h
+	<iostream>
+	<string>
+	"surah.h"
+	"DLL.h"
+	"Playlist.h"
+	<iomanip>
+	<fstream>
+
